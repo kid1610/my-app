@@ -1,0 +1,54 @@
+/* Common */
+*{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+    
+.clear {
+    clear: both;
+}
+#form{
+    width: 700px;
+    display: block;
+    border: 1px solid #78B43D;
+    margin: auto;
+}
+
+#form .table{
+    width: 500px;
+    margin: auto;
+    text-align: left;
+    padding: 4px 8px;
+}
+#form h2{
+    padding: 10px;
+    color: #fff;
+    font-size: 17px;
+    text-align: center;
+    font-weight: 600;
+    background-color: #78B43D;
+}
+.table span{
+    width: 130px;
+    height: 30px;
+    padding-right: 10px;
+    font-weight: bold;
+    font-size: 12px;
+    text-align: right;
+    float: left;
+}
+.table .row{
+    width: 484px;
+    padding: 10px;
+}
+
+.table button{
+    font-size: 15px;
+    background-color: #78B43D;
+    font-weight: bold;
+    padding-left: 10px;
+    justify-content: center;
+    color: #fff;
+}
