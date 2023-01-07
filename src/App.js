@@ -14,7 +14,7 @@ function App(props){
   const [errP, setErrP] = useState("")
   const [errC, setErrC] = useState("")
   const [errI, setErrI] = useState("")
-  // them 1 dong 
+  // xoa 1 dong di 
   function thaydoiE(e){
     // e.target: giong attr lay gia tri cua thuoc tinh 
     setEmail(e.target.value)
